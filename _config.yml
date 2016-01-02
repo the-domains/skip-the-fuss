@@ -1,0 +1,28 @@
+name: Skip the Fuss
+favicon: null
+layout_spectrum: 0.4136148039251566
+typography_spectrum: 0.03733537392690778
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.11847929493524134
+  lightness: 0.7988086345139891
+  saturation: 0.46171287214383483
+  rhythmicContrast: 0.8748525311239064
+purpose: []
